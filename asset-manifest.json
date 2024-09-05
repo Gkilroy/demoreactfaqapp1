@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gkilroy/demoreactfaqapp2.git/static/css/main.9199fa46.css",
+    "main.js": "/Gkilroy/demoreactfaqapp2.git/static/js/main.efae8e64.js",
+    "static/js/453.0c0a1f79.chunk.js": "/Gkilroy/demoreactfaqapp2.git/static/js/453.0c0a1f79.chunk.js",
+    "index.html": "/Gkilroy/demoreactfaqapp2.git/index.html",
+    "main.9199fa46.css.map": "/Gkilroy/demoreactfaqapp2.git/static/css/main.9199fa46.css.map",
+    "main.efae8e64.js.map": "/Gkilroy/demoreactfaqapp2.git/static/js/main.efae8e64.js.map",
+    "453.0c0a1f79.chunk.js.map": "/Gkilroy/demoreactfaqapp2.git/static/js/453.0c0a1f79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9199fa46.css",
+    "static/js/main.efae8e64.js"
+  ]
+}

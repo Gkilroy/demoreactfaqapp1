@@ -57,7 +57,7 @@ const Login = (props) => {
 
     return (
     <>
-        <p>Login Page - v1.0.6</p>
+        <p>Login Page - v2.0.0</p>
         <div>
             <span>* username: </span><input ref={txtusername} type="text" maxLength={20} placeholder="* username required"/> <br/>
             <span>* password: </span><input ref={txtpassword} type="password" maxLength={10} placeholder="* password required"/> <br/>
